@@ -1,2 +1,0 @@
-# SIA
-Project MATH-GAME-QUIZ
